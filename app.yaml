@@ -1,4 +1,4 @@
-application: 508363052228
+application: browser-detect
 version: 1
 runtime: python27
 api_version: 1
